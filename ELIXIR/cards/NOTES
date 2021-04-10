@@ -1,0 +1,8 @@
+pattern match is elixir's replacement for variable assignment in other languages like javascript
+
+Pattern matching and the pipeline operator are the corners``tones of 
+the elixir programming paradinm
+
+next:
+    maps
+    keywords
